@@ -16,11 +16,11 @@ Este projeto é um aplicativo web e mobile desenvolvido utilizando Flutter para 
 
 ## Tecnologias Utilizadas
 
-# Frontend: 
+### Frontend: 
 * Flutter (web e mobile)
-# Backend: 
+### Backend: 
 * NestJS
-# ORM: 
+### ORM: 
 * Prisma
 #Banco de Dados 
 *PostgreSQL
